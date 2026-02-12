@@ -79,7 +79,7 @@ Libraries: pandas, numpy, scikit-learn, matplotlib
 Others: Jupyter Notebook for experimentation and Tau-class LaTeX template for the final report.
 
 Execution
-Clone the public repository: git clone https://github.com/marcdalg05/CasKaggle.git
+Clone the public repository: git clone https://github.com/marcdalg05/PriceCarPrediction.git
 
 Setup environment and dependencies: python -m venv venv source venv/bin/activate pip install -r requirements.txt
 
